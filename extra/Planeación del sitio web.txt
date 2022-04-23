@@ -1,0 +1,50 @@
+Propósito del sitio web: Presentar el restaurante, las comidas y 
+las cosas atractivas que tiene, incluyedo redes sociales.
+Contenido: 
+Home: Presentación llamativa, tipos de comida, facilidades para ordenar e invitación a redes sociales.
+También el logotipo debe ser prominente en el sitio web.
+
+Párrafos preliminares:
+Home:
+Comidas típicas, gourmet, exótica, y exótica
+son algunos de los tipos de comidas que ofrecemos.
+
+Puedes visitar uno de nuestros locales o pedir a domicilio.
+
+Ubicación:
+Ejemplo:
+La Ceiba, Atlántida, barrio Citraleyde a dos cuadras de la
+universidad UPNFM.
+Lunes a viernes, 7:00am - 7:00pm
+Sábado y domingo, 7:00pm - 12:00pm
+
+Sobre nosotros:
+Comenzamos en 2002 como un pequeño restaurante, y
+progresivamente avanzamos hasta estar en diversos lugares del país.
+Confiamos en la calidad de nuestros servicios y la capacidad de
+nuestro personal.
+
+Entre nuestro personal se encuentran chefs profesionales y también
+profesionales de áreas afines, que hacen que ofrezcamos calidad.
+
+Comentarios:
+Evangeline Fernández
+5 estrellas
+La primera vez que visité el restaurante fui muy bien atentida y la
+comida fue deliciosa. Ahora voy ocasionalmente a comer con amigas.
+
+Fran Montoya
+5 estrellas
+La comida es muy deliciosa. La variedad hace que quiera seguir 
+yendo a probar los distintos platos.
+
+Menú: las comidas ofrecidas y los precios.
+
+Ubicaciones: Lista de locales del restaurante y horarios.
+
+Sobre nosotros: breve descripción del restaurante y comentarios de clientes.
+
+Cómo se verá: El fondo será azul oscuro. Se usarán 1 o 2 tonos
+de azul más claros para el resto. El texto será blanco negro.
+La fuente, una de carta para títulos y otra delgada y elegante 
+para el texto.

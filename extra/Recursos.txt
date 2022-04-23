@@ -1,0 +1,115 @@
+Home
+Frase de portada: Te encantará
+
+Describir tipos de comida:
+Comidas típicas, gourmet, rápida
+son sólo algunos de los tipos de comidas que ofrecemos.
+
+Puedes visitar uno de nuestros locales o pedir a domicilio.
+
+Invitación a redes sociales: síguenos en nuestras redes sociales.
+
+Menú
+Comidas
+
+Baledada
+Sencilla: 10.00 HNL
+Con huevo: 15.00 HNL
+Con carne: 20.00 HNL
+
+Tostadas de atún
+$16.73
+
+Tacos de ribeye
+9.09$
+
+Coctel de camarones
+7$
+
+Stromboli
+10$
+
+Gazpacho
+5$
+
+Tortilla de patata
+10$
+
+Hamburguesa
+5$
+
+Pizza
+25$
+
+Coctel de frutas
+5$
+
+Bebidas
+
+Jugo de naranja
+2$
+
+Jugo de tamarindo
+2$
+
+Jugo de jamaica
+2$
+
+Pepsi
+1$
+
+Agua
+1$
+
+Licuado
+3$
+
+Ubicaciones
+La Ceiba, Atlántida, Barrio CYTRALEYED, a dos cuadras de la UPNFM
+Lunes a Viernes, 7:00am - 12:00pm
+
+San Pedro Sula, Cortés, Colonia Villas del Sol, a dos cuadras al norte de la UNAH
+Lunes a Viernes, 7:00am - 12:00pm
+
+Tegucigalpa, Francisco Morazán, Bulevar General, a cuatro cuadras al sur de Pizza Hut
+
+
+Sobre nosotros:
+Comenzamos en 2002 como un pequeño restaurante, y
+progresivamente avanzamos hasta estar en diversos lugares del país.
+Confiamos en la calidad de nuestros servicios y la capacidad de
+nuestro personal.
+
+Entre nuestro personal se encuentran chefs profesionales y también
+profesionales de áreas afines, que hacen que ofrezcamos calidad.
+
+Comentarios:
+Evangeline Fernández
+5 estrellas
+La primera vez que visité el restaurante fui muy bien atentida y la
+comida fue deliciosa. Ahora voy ocasionalmente a comer con amigas.
+
+Fran Montoya
+5 estrellas
+La comida es muy deliciosa. La variedad hace que quiera seguir 
+yendo a probar los distintos platos.
+
+
+Fuente de textos:
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Akshar:wght@300;400;700&display=swap" rel="stylesheet">
+font-family: 'Akshar', sans-serif;
+
+Fuente de títulos:
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Water+Brush&display=swap" rel="stylesheet">
+font-family: 'Water Brush', cursive;
+
+Colores:
+--azul-mas-claro: #114982;
+--azul-claro: #0a2f54;
+--fondo-logotipo: #05192d;
+--azul-oscuro: #041424;
+--azul-mas-oscuro: #020a12;
