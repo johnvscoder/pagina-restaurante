@@ -1,0 +1,28 @@
+:root {
+    --azul-mas-claro: #114982;
+    --azul-claro: #0a2f54;
+    --fondo-logotipo: #05192d;
+    --azul-oscuro: #041424;
+    --azul-mas-oscuro: #020a12;
+
+}
+
+header {
+    width: 100%;
+    height: 600px;
+    background: var(--fondo-logotipo);
+}
+
+.portada {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.portada img{
+    align-self: center;
+}
+
+.portada h1 {
+    text-align: center;
+}
