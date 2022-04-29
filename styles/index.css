@@ -1,0 +1,15 @@
+
+.portada {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex: 1;
+}
+
+.portada img {
+    align-self: center
+}
+
+.portada h1 {
+    text-align: center;
+}
