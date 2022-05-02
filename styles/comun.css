@@ -1,13 +1,33 @@
 :root {
-    --azul-mas-claro: #114982;
-    --azul-claro: #0a2f54;
-    --fondo-logotipo: #05192d;
-    --azul-oscuro: #041424;
-    --azul-mas-oscuro: #020a12;
+    --color-de-fondo: #fff7f2;
+    --color-texto-header: #913d00;
 
 }
 
 body {
     font-family: 'Akshar', sans-serif;
+    font-size: 22px;
+    background: var(--color-de-fondo);
 }
 
+.nav__ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.nav__ul li {
+    display: inline-block;
+}
+
+.nav__ul a {
+    text-decoration: none;
+    color: var(--color-texto-header);
+    display: block;
+    padding: 10px;
+}
+
+.nav__ul a:hover {
+    text-decoration: underline;
+    background: #fff;
+    border-radius: 3px;
+}
